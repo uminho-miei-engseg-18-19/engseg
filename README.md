@@ -3,7 +3,7 @@
 ## Avisos
 
 
-**6/Fev/2019**
+**4/Fev/2019**
 
 -   Foi disponibilizada a apresentação da primeira aula.
 
