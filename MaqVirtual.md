@@ -2,7 +2,7 @@
 
 **Nota**: À medida que o semestre for decorrendo, poderá ser adicionado software à máquina virtual, pelo que terão de ir fazendo update da mesma. Desse modo, será melhor guardarem os vossos trabalhos no exterior da máquina virtual, podendo para isso recorrer à diretoria partilhada com o sistema *host*.
 
-A máquina virtual disponibilizada (Debian 9.3.0 Stretch 64 bits) tem os seguintes utilizadores/password:
+A máquina virtual disponibilizada (Debian 9.7 Stretch 64 bits) tem os seguintes utilizadores/password:
 + root / root
 + user / user
 
@@ -29,7 +29,7 @@ Adicionalmente, no utilizador user, na diretoria Tools, estão instalados:
 + kali-anonsurf (https://github.com/Und3rf10w/kali-anonsurf.git)
 + GDB-Peda (https://github.com/longld/peda.git)
 
-Pode fazer download do ficheiro **.ova** da máquina virtual em <a indicar>.
+Pode fazer download do ficheiro **.ova** da máquina virtual em https://meocloud.pt/link/68b1ffe0-c53b-45ab-9f06-3f35eaae9182/CSI.EngSeg.ova/.
 
 ## Instalação da VM
 
