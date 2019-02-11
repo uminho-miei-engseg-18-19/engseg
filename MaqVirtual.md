@@ -29,7 +29,7 @@ Adicionalmente, no utilizador user, na diretoria Tools, estão instalados:
 + kali-anonsurf (https://github.com/Und3rf10w/kali-anonsurf.git)
 + GDB-Peda (https://github.com/longld/peda.git)
 
-Pode fazer download do ficheiro **.ova** da máquina virtual em https://meocloud.pt/link/68b1ffe0-c53b-45ab-9f06-3f35eaae9182/CSI.EngSeg.ova/.
+Pode fazer download do ficheiro **.ova** da máquina virtual em https://meocloud.pt/link/76b3a2fa-1cc0-49ea-a6a0-60a7bb05ae5c/CSI.EngSeg.ova/ .
 
 ## Instalação da VM
 
