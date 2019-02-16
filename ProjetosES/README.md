@@ -15,7 +15,7 @@ Os projetos têm que se inserir na temática da cadeira e/ou do Perfil de Especi
 Os projetos propostos pelo docente para escolha pelo grupo de trabalho são os seguintes:
 + [Técnicas de intrusão](Intrusao.pdf) - até dois grupos;
 + [mDL (mobile Driving License)](mDL.pdf) - até dois grupos;
-+ [Self-sovereign identity](SelSoverID.pdf) - até dois grupos;
++ [Self-sovereign identity](SelfSoverID.pdf) - até dois grupos;
 + [Assinaturas eIDAS com web service REST/SOAP](Sign.eIDAS.1.pdf) - até cinco grupos;
 + [Assinaturas eIDAS com Java](Sign.eIDAS.2.pdf) - até dois grupos;
 + [Assinaturas eIDAS em Javascript](Sign.eIDAS.3.pdf) - um grupo;
@@ -26,7 +26,9 @@ Relembra-se que os grupos que escolherem algum dos [projetos propostos para a ca
 
 Os grupos devem enviar um mail ao docente até ao dia 18/Fevereiro com indicação de qual o projeto que escolhem.
 
-O modo de atribuição dos projetos será "_First in First served_". Nessa perspetiva, o grupo pode indicar vários projetos e ordem de prioridade de preferência. 
+O modo de atribuição dos projetos será "_First in First served_". Nessa perspetiva, o grupo pode indicar vários projetos e ordem de prioridade de preferência.
+
+De notar que o projeto [Técnicas de intrusão](Intrusao.pdf) foi pedido por um grupo na aula do dia 11/Fevereiro, pelo que se encontra reservado para esse grupo. 
 
 
 ## 2. Projetos propostos pelos grupos
