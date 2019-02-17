@@ -3,6 +3,12 @@
 ## Avisos
 
 
+**17/Fev/2019**
+
+- Foi disponibilizado a ficha de trabalho para a terceira aula, assim como alguns programas de exemplo.
+- Foram disponibilizados os slides para a terceira aula.
+
+
 **16/Fev/2019**
 
 Foram disponibilizados os projetos propostos para a cadeira de Engenharia de Segurança, que se encontram na diretoria ProjetosES. Leia o [README](ProjetosES/README.md) para saber como escolher.
