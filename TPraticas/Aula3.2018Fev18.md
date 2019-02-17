@@ -1,4 +1,4 @@
-# Aula TP - 19/Fev/2018
+# Aula TP - 18/Fev/2018
 
 Cada grupo deve colocar a resposta às perguntas dos seguintes exercícios na área do seu grupo no Github até ao final do dia 27/Fev/2018\. Por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.
 
@@ -179,7 +179,7 @@ Cada grupo indicado abaixo deve efetuar o teste _SSL Server test_ aos sites indi
 
 ### 3\. Protocolo SSH
 
-Para este ponto necessita de instalar o **ssh-audit** na conta do utilizador _user_ na máquina virtual. Sugere-se que efetue a seguinte sequência de comandos:
+Para este ponto necessita de instalar o **ssh-audit** na conta do utilizador _user_ na máquina virtual (note que já está instalada na diretoria ~/Tools/ssh-audit da máquina virtual). Sugere-se que efetue a seguinte sequência de comandos:
 
 > `cd`
 
