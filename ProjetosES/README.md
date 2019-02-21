@@ -28,6 +28,7 @@ Os projetos propostos pelo docente para escolha pelo grupo de trabalho são os s
 + [Assinaturas eIDAS com Java](Sign.eIDAS.2.pdf) - até dois grupos - Grupo 13, Grupo 14;
 + [Assinaturas eIDAS em Javascript](Sign.eIDAS.3.pdf) - um grupo;
 + [Esteganografia](Esteganografia.pdf) - até dois grupos - Grupo 1 (caso de uso 2) e Grupo 3 (caso de uso 1);
++ [Segurança IoT](IoT.pdf) - um grupo - Grupo 11.
 
 Relembra-se que os grupos que escolherem algum dos [projetos propostos para a cadeira de "Laboratório de Engenharia Informática"](../LabEI) deverão falar com o docente para estabelecer que parte do projeto é que pode também ser utilizado para a componente B2 da cadeira de Engenharia de Segurança. Relembramos que o projeto poderá ser o mesmo, mas como os objetivos são diferentes, existirão relatórios e apresentações distintas para cada uma das cadeiras.
 
