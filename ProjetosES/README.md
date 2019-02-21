@@ -12,7 +12,7 @@ Os projetos têm que se inserir na temática da cadeira e/ou do Perfil de Especi
 
 As **reuniões de projeto** ocorrerão sempre que os alunos as pedirem (por favor enviem um mail prévio a marcar um slot de reunião), às segundas-feiras a seguir à UC de Engenharia de Segurança.
 
-Existe também um *workspace* no slack para ser utilizado no âmbito da UC de  Engenharia de Segurança.
+Existe também um *workspace* da UC no slack para ser utilizado no âmbito da UC de  Engenharia de Segurança.
 Para se juntar, utilize o convite em
 https://join.slack.com/t/engenhariadeseguranca/shared_invite/enQtNTU1Mzk4MTc2NjE1LTc2NTExY2U5Y2RiNmZkY2I4MGFlOTZkZGMyMTEzZTc0Y2UzM2VhMTczZjU4ZWI5YzY4N2JiNWVhZjVmMTk1MDM
 
@@ -23,9 +23,9 @@ https://join.slack.com/t/engenhariadeseguranca/shared_invite/enQtNTU1Mzk4MTc2NjE
 Os projetos propostos pelo docente para escolha pelo grupo de trabalho são os seguintes:
 + [Técnicas de intrusão](Intrusao.pdf) - até dois grupos - Grupo 8 e Grupo 7;
 + [mDL (mobile Driving License)](mDL.pdf) - até dois grupos - Grupo 5 e Grupo 4;
-+ [Self-sovereign identity](SelfSoverID.pdf) - até dois grupos;
++ [Self-sovereign identity](SelfSoverID.pdf) - até dois grupos - Grupo 9 (e Grupo 6);
 + [Assinaturas eIDAS com web service REST/SOAP](Sign.eIDAS.1.pdf) - até cinco grupos - Grupo 12;
-+ [Assinaturas eIDAS com Java](Sign.eIDAS.2.pdf) - até dois grupos - Grupo 13;
++ [Assinaturas eIDAS com Java](Sign.eIDAS.2.pdf) - até dois grupos - Grupo 13, Grupo 14;
 + [Assinaturas eIDAS em Javascript](Sign.eIDAS.3.pdf) - um grupo;
 + [Esteganografia](Esteganografia.pdf) - até dois grupos - Grupo 1 (caso de uso 2) e Grupo 3 (caso de uso 1);
 
