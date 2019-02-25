@@ -23,10 +23,10 @@ https://join.slack.com/t/engenhariadeseguranca/shared_invite/enQtNTU1Mzk4MTc2NjE
 Os projetos propostos pelo docente para escolha pelo grupo de trabalho são os seguintes:
 + [Técnicas de intrusão](Intrusao.pdf) - até dois grupos - Grupo 8 e Grupo 7;
 + [mDL (mobile Driving License)](mDL.pdf) - até dois grupos - Grupo 5 e Grupo 4;
-+ [Self-sovereign identity](SelfSoverID.pdf) - até dois grupos - Grupo 9 (e Grupo 6);
++ [Self-sovereign identity](SelfSoverID.pdf) - até dois grupos - Grupo 9 (e Grupo 6/10 ??);
 + [Assinaturas eIDAS com web service REST/SOAP](Sign.eIDAS.1.pdf) - até cinco grupos - Grupo 12;
 + [Assinaturas eIDAS com Java](Sign.eIDAS.2.pdf) - até dois grupos - Grupo 13, Grupo 14;
-+ [Assinaturas eIDAS em Javascript](Sign.eIDAS.3.pdf) - um grupo;
++ [Assinaturas eIDAS em Javascript](Sign.eIDAS.3.pdf) - um grupo - Grupo 2;
 + [Esteganografia](Esteganografia.pdf) - até dois grupos - Grupo 1 (caso de uso 2) e Grupo 3 (caso de uso 1);
 + [Segurança IoT](IoT.pdf) - um grupo - Grupo 11.
 
