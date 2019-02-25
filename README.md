@@ -2,6 +2,13 @@
 
 ## Avisos
 
+**24/Fev/2019**
+
+- Foi disponibilizado a ficha de trabalho para a quarta aula - em inglês e português.
+- Foram disponibilizados os slides para a quarta aula - em inglês e português.
+- Foi disponibilizado a ficha de trabalho para a segunda aula, em inglês.
+- Foram disponibilizados os slides para a segunda aula, em inglês.
+
 
 **19/Fev/2019**
 
