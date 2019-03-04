@@ -41,3 +41,30 @@ Ficha de trabalho incidindo sobre:
 -   Assinaturas cegas
 -   SSL/TLS
 -   SSH
+
+## Semana 4 - 25/Fev/2018
+
+**Teórica**:
+
+-   Protocolos/aplicações criptográficas
+    -   TOR (_The Onion Router_)
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   TOR
+-   Projeto de Engenharia de Segurança
+
+## Semana 5 - 4/Mar/2018
+
+**Teórica**:
+
+-   Protocolos/aplicações criptográficas
+    -   Voto eletrónico
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Projeto de Engenharia de Segurança

@@ -118,7 +118,7 @@ Como estes documentos não são públicos, por favor contactem-me para vo-los po
 
 ### 1.2.5 Projeto Self-sovereign identity
 
-Para além da bibliografia já fornecida no enunciado do projeto, é ainda relevante referir o seguinte:
+Para além da bibliografia já fornecida no enunciado do projeto, é ainda muito relevante referir o seguinte:
 + The Basics of Decentralized Identity - https://medium.com/uport/the-basics-of-decentralized-identity-d1ff01f15df1
 + The Self-sovereign Identity Stack - https://medium.com/decentralized-identity/the-self-sovereign-identity-stack-8a2cc95f2d45
 + Three Self-Sovereign Identity Platforms to Watch - https://www.newamerica.org/future-property-rights/reports/nail-finds-hammer/three-self-sovereign-identity-platforms-to-watch/

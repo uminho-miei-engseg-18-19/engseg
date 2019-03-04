@@ -2,6 +2,14 @@
 
 ## Announcements
 
+
+
+**04/Mar/2019**
+
+- The worksheet for the fifth class was made available - in English and Portuguese.
+- The slides were made available for the fifth class - in English and Portuguese.
+
+
 **24/Feb/2019**
 
 - The worksheet for the fourth class was made available - in English and Portuguese.
