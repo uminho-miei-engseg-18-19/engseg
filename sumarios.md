@@ -1,12 +1,12 @@
 # Aulas
 
-## Semana 1 - 04/Fev/2018
+## Semana 1 - 04/Fev/2019
 
 **Teórica**: Apresentação da UC.
 
 **Prática**: Apresentação dos trabalhos de Laboratórios Integrados.
 
-## Semana 2 - 11/Fev/2018
+## Semana 2 - 11/Fev/2019
 
 **Teórica**:
 
@@ -25,7 +25,7 @@ Ficha de trabalho incidindo sobre:
 -   Authenticated encryption;
 -   Algoritmos e tamanho de chaves.
 
-## Semana 3 - 18/Fev/2018
+## Semana 3 - 18/Fev/2019
 
 **Teórica**:
 
@@ -42,7 +42,7 @@ Ficha de trabalho incidindo sobre:
 -   SSL/TLS
 -   SSH
 
-## Semana 4 - 25/Fev/2018
+## Semana 4 - 25/Fev/2019
 
 **Teórica**:
 
@@ -56,7 +56,7 @@ Ficha de trabalho incidindo sobre:
 -   TOR
 -   Projeto de Engenharia de Segurança
 
-## Semana 5 - 4/Mar/2018
+## Semana 5 - 4/Mar/2019
 
 **Teórica**:
 
