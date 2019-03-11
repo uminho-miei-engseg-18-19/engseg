@@ -68,3 +68,16 @@ Ficha de trabalho incidindo sobre:
 Ficha de trabalho incidindo sobre:
 
 -   Projeto de Engenharia de Segurança
+
+
+## Semana 6 - 11/Mar/2019
+
+**Teórica**:
+
+-   RGPD (Regulamento Geral de Proteção de Dados) e suas consequências para a Engenharia de Segurança e Desenvolvimento de Software.
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Projeto de Engenharia de Segurança
