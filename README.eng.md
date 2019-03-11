@@ -8,8 +8,6 @@
 - Today's class will be on the "General Data Protection Regulation" and we will have as guest Dr. José Sousa Pinto, member of the Board of the "Portuguese Association of Data Protection"
 - In the TPraticas/Aula6 directory, you can find the Regulation EU 2016/679 ("General Data Protection Regulation")
 
-- A aula de hoje será sobre o "Regulamento Geral de Proteção de Dados" e teremos como convidado o Dr. José Sousa Pinto, membro da Direção da "Associação Portuguesa de Proteção de Dados"
-- Na diretoria dos slides encontra-se o Regulamento UE 2016/679 ("Regulamento Geral de Proteção de Dados")
 
 **04/Mar/2019**
 
