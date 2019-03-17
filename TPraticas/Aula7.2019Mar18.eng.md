@@ -58,17 +58,17 @@ Note that the analysis should only be done to one of the documents, and the grou
 ENISA (European Union Agency for Network and Information Security) has done an excellent job in producing relevant documentation for data protection.
 
 
-In the document  [_Recommendations on shaping technology according to GDPR provisions - An overview on data pseudonymisation_](Aula7/ENISA.WP2018 O.2.2.5 - Recomendations on shaping technology according to GDPR provisions - Part 1.pdf) analyze the _Pseudonymisation techniques_ (section 3), and summarize them (between 1/2 and 1 page A4) -  Groups 1, 2, 3, 4 or 5.
+In the document  [_Recommendations on shaping technology according to GDPR provisions - An overview on data pseudonymisation_](Aula7/ENISA.WP2018-O.2.2.5-Recomendations-on-shaping-technology-according-to-GDPR-provisions-Part1.pdf) analyze the _Pseudonymisation techniques_ (section 3), and summarize them (between 1/2 and 1 page A4) -  Groups 1, 2, 3, 4 or 5.
 
 
-In the document [_Recommendations on shaping technology according to GDPR provisions - Exploring the notion of data protection by default_](Aula7/ENISA.WP2018 O.2.2.5 Recommendations on shaping technology according to GDPR provisions - Part 2.pdf) analyze the _Data protection by default in practice_ (section 3), and summarize them (between 1/2 and 1 page A4) -  Groups 6, 7, 8, 9 ou 10.
+In the document [_Recommendations on shaping technology according to GDPR provisions - Exploring the notion of data protection by default_](Aula7/ENISA.WP2018-O.2.2.5-Recommendations-on-shaping-technology-according-to-GDPR-provisions-Part2.pdf) analyze the _Data protection by default in practice_ (section 3), and summarize them (between 1/2 and 1 page A4) -  Groups 6, 7, 8, 9 ou 10.
 
-In the document [_Privacy and Data Protection by Design – from policy to engineering_](Aula7/ENISA.Privacy and Data Protection by Design.pdf) analyze the eight strategies of _privacy design_ (section 3.2), and summarize them (between 1/2 and 1 page A4) -  Groups  11, 12, 13 ou 14.
+In the document [_Privacy and Data Protection by Design – from policy to engineering_](Aula7/ENISA.Privacy-and-Data-Protection-by-Design.pdf) analyze the eight strategies of _privacy design_ (section 3.2), and summarize them (between 1/2 and 1 page A4) -  Groups  11, 12, 13 ou 14.
 
 
 #### Experience 1.1
 
-Table 1 of document  [_Online privacy tools for the general public - Towards a methodology for the evaluation of PETs for internet & mobile users_](ENISA.Study on the availability of trustworthy online privacy tools for the general public.pdf) identifies
+Table 1 of document  [_Online privacy tools for the general public - Towards a methodology for the evaluation of PETs for internet & mobile users_](Aula7/ENISA.Study-on-the-availability-of-trustworthy-online-privacy-tools-for-the-general-public.pdf) identifies
 the most relevant web portals in promoting the use of tools that guarantee the privacy of the data (and / or the user).
 
 Based on the web portals identified, carry out the following experiments:
