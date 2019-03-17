@@ -3,10 +3,17 @@
 ## Avisos
 
 
+**18/Mar/2019**
+
+- Foi disponibilizado a ficha de trabalho para a sétima aula - em inglês e português.
+- Foram disponibilizados os slides para a sétima aula - em inglês e português.
+
+
+
 **11/Mar/2019**
 
-- A aula de hoje será sobre o "Regulamento Geral de Proteção de Dados" e teremos como convidado o Dr. José Sousa Pinto, membro da Direção da "Associação Portuguesa de Proteção de Dados"
-- Na diretoria TPraticas/Aula6 encontra-se o Regulamento UE 2016/679 ("Regulamento Geral de Proteção de Dados")
+- A aula de hoje será sobre o "Regulamento Geral de Proteção de Dados" e teremos como convidado o Dr. José Sousa Pinto, advogado e membro da Direção da "Associação Portuguesa de Proteção de Dados"
+- Na diretoria TPraticas/Aula7 encontra-se o Regulamento UE 2016/679 ("Regulamento Geral de Proteção de Dados")
 
 
 **04/Mar/2019**

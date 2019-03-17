@@ -74,10 +74,24 @@ Ficha de trabalho incidindo sobre:
 
 **Teórica**:
 
--   RGPD (Regulamento Geral de Proteção de Dados) e suas consequências para a Engenharia de Segurança e Desenvolvimento de Software.
+-   RGPD (Regulamento Geral de Proteção de Dados) - visão legal.
 
 **Prática**:
 
 Ficha de trabalho incidindo sobre:
 
 -   Projeto de Engenharia de Segurança
+
+
+## Semana 7 - 18/Mar/2019
+
+**Teórica**:
+
+-   RGPD (Regulamento Geral de Proteção de Dados) - visão técnica, e suas consequências para a Engenharia de Segurança e Desenvolvimento de Software.
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   RGPD,
+- Data Protection Impact Assessment (DPIA).

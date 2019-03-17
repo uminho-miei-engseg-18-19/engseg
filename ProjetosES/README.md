@@ -55,6 +55,8 @@ general data using digital signature techniques - disponível em https://docbox.
 
 No que diz respeito à **validação de assinaturas**, as mesmas tb são serviços qualificados de confiança de acordo com o regulamento eIDAS. Embora já exista um documento ETSI de políticas e práticas para o qual pode ser interessante olharem - ETSI TS 119 441 V1.1.1 (2018-08) Electronic Signatures and Infrastructures (ESI); Policy requirements for TSP providing signature validation services (https://www.etsi.org/deliver/etsi_ts/119400_119499/119441/01.01.01_60/ts_119441v010101p.pdf) -, o documento que define as regras para os trust service providers ainda está numa fase que parece demasiado incipiente - Draft ETSI TS 119 442 V0.0.5 (2017-11) Electronic Signatures and Infrastructures (ESI); Protocol profiles for trust service providers providing AdES digital signature validation services (https://upcommons.upc.edu/bitstream/handle/2117/112541/ESI-0019442v005(1).pdf).
 
+Caso não consigam assinar PDFs com o Cartão de Cidadão ou com a Chave Móvel Digital (ou com outro certificado da _Trusted List_), coloquei dois ficheiros na diretoria [Aux](Aux) que podem utilizar para a funcionalidade de extensão de assinatura e para a validação de assinaturas.
+
 
 ### 1.2.2 Projeto Esteganografia
 

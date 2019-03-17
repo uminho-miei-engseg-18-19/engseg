@@ -3,10 +3,16 @@
 ## Announcements
 
 
+**18/Mar/2019**
+
+- The worksheet for the seventh class was made available - in English and Portuguese.
+- The slides were made available for the seventh class - in English and Portuguese.
+
+
 **11/Mar/2019**
 
-- Today's class will be on the "General Data Protection Regulation" and we will have as guest Dr. José Sousa Pinto, member of the Board of the "Portuguese Association of Data Protection"
-- In the TPraticas/Aula6 directory, you can find the Regulation EU 2016/679 ("General Data Protection Regulation")
+- Today's class will be on the "General Data Protection Regulation" and we will have as guest Dr. José Sousa Pinto, lawyer and member of the Board of the "Portuguese Association of Data Protection"
+- In the TPraticas/Aula7 directory, you can find the Regulation EU 2016/679 ("General Data Protection Regulation")
 
 
 **04/Mar/2019**
