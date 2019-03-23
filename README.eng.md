@@ -3,6 +3,14 @@
 ## Announcements
 
 
+**23/Mar/2019**
+
+- The worksheet for the eighth class was made available - in English and Portuguese.
+- The slides were made available for the eighth class - in English.
+
+
+
+
 **18/Mar/2019**
 
 - The worksheet for the seventh class was made available - in English and Portuguese.

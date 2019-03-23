@@ -95,3 +95,18 @@ Ficha de trabalho incidindo sobre:
 
 -   RGPD,
 - Data Protection Impact Assessment (DPIA).
+
+
+## Semana 8 - 25/Mar/2019
+
+**Teórica**:
+
+-   Protocolos/aplicações criptográficas
+    -   Blockchain
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Blockchain

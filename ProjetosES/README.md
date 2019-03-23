@@ -44,7 +44,7 @@ De notar que o projeto [Técnicas de intrusão](Intrusao.pdf) foi pedido por um 
 
 ### 1.2.1 Projetos eIDAS
 
-Para a utilização do DSS (**objetivo 1**) podem começar por https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=46992515.
+Para a utilização do DSS (**objetivo 1**) podem começar por https://ec.europa.eu/cefdigital/wiki/pages/viewpage.action?pageId=80183820. A documentação do DSS encontra-se em https://github.com/esig/dss/blob/master/dss-cookbook/src/main/asciidoc/dss-documentation.adoc
 
 Para o **objetivo 2** do eIDAS.1 (REST/SOAP) e eIDAS.2 (Java) aconselho que escolham o comando linha ou a aplicação desktop - por favor indiquem-me qual das duas alternativas escolhem -.
 

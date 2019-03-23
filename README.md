@@ -3,6 +3,16 @@
 ## Avisos
 
 
+
+**23/Mar/2019**
+
+- Foi disponibilizado a ficha de trabalho para a oitava aula - em inglês e português.
+- Foram disponibilizados os slides para a oitava aula - em inglês.
+
+
+
+
+
 **18/Mar/2019**
 
 - Foi disponibilizado a ficha de trabalho para a sétima aula - em inglês e português.
