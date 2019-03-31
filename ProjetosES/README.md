@@ -110,6 +110,10 @@ Notas:
 2. Quando tiverem o vosso texto pronto, o mesmo deverá ser revisto com o docente da UC que vos colocará em contacto eletrónico com os responsáveis das empresas.
 3. Se acharem necessário podem fazer um texto de _Pre-engagement_ diferente para cada empresa.
 
+Para as fases subsequentes ao _Pre-engagement_  há que colocar no anexo do relatório tudo o que fizeram, nomeadamente:
++ as ferramentas automáticas utilizadas assim como os resultados obtidos com as mesmas (anexar ficheiros com evidências desse resultado - normalmente o output ou relatório dessas ferramentas);
++ as pesquisas manuais e correspondentes resultados obtidos (anexar ficheiros com evidências desse resultado).
+
 
 ### 1.2.4 Projeto mDL
 

@@ -110,3 +110,20 @@ Ficha de trabalho incidindo sobre:
 Ficha de trabalho incidindo sobre:
 
 -   Blockchain
+
+
+## Semana 9 - 01/Abr/2019
+
+**Teórica**:
+
+-   Segurança de software
+  -   Conceitos
+  -   Vulnerabilidades
+  -   Desenvolvimento de software seguro
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Vulnerabilidade de codificação
+-   Continuação do projeto de desenvolvimento de Software
