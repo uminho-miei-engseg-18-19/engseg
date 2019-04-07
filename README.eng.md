@@ -3,6 +3,13 @@
 ## Announcements
 
 
+**08/Apr/2019**
+
+- The worksheet for the tenth class was made available - in English and Portuguese.
+- The slides were made available for the tenth class - in English and Portuguese.
+
+
+
 **31/Mar/2019**
 
 - The worksheet for the ninth class was made available - in English and Portuguese.
