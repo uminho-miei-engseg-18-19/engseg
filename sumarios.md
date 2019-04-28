@@ -149,3 +149,24 @@ Ficha de trabalho incidindo sobre:
 -   Risco de segurança
 -   Secure Software Development Lifecycle (S-SDLC)
 - Modelo de Maturidade no projeto de desenvolvimento de Software
+
+
+
+## Semana 11 - 28/Abr/2018
+
+**Teórica**:
+
+-   Segurança de software
+  - Vulnerabilidade de Buffer overflow
+  - Vulnerabilidade de inteiros
+- Ameaças de segurança ao software
+  - Categorias de ataques que exploram vulnerabilidades de software
+  - Lista de ameaças STRIDE
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Vulnerabilidade de Buffer overflow
+- Vulnerabilidade de inteiros
