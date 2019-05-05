@@ -130,7 +130,7 @@ Ficha de trabalho incidindo sobre:
 
 
 
-## Semana 10 - 08/Abr/2018
+## Semana 10 - 08/Abr/2019
 
 **Teórica**:
 
@@ -152,7 +152,7 @@ Ficha de trabalho incidindo sobre:
 
 
 
-## Semana 11 - 28/Abr/2018
+## Semana 11 - 28/Abr/2019
 
 **Teórica**:
 
@@ -170,3 +170,19 @@ Ficha de trabalho incidindo sobre:
 
 -   Vulnerabilidade de Buffer overflow
 - Vulnerabilidade de inteiros
+
+
+## Semana 12 - 06/Mai/2019
+
+**Teórica**:
+
+- Riscos de segurança em aplicações Web (OWASP Top 10)
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+- _Injection_
+- XSS
+- Quebra na Autenticação

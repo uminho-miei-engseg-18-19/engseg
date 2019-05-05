@@ -2,6 +2,12 @@
 
 ## Avisos
 
+**05/Mai/2019**
+
+- Foi disponibilizado a ficha de trabalho para a décima-segunda aula - em inglês e português.
+- Foram disponibilizados os slides para a décima-segunda aula - em inglês e português.
+
+
 
 
 **28/Abr/2019**

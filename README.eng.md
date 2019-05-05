@@ -3,6 +3,10 @@
 ## Announcements
 
 
+**05/May/2019**
+
+- The worksheet for the twelfth class was made available - in English and Portuguese.
+- The slides were made available for the twelfth class - in English and Portuguese.
 
 **28/Apr/2019**
 
