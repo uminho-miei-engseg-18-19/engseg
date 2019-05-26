@@ -3,6 +3,11 @@
 ## Announcements
 
 
+**26/May/2019**
+
+- The worksheet for the extra class was made available.
+- The slides were made available for the extra class.
+
 **05/May/2019**
 
 - The worksheet for the twelfth class was made available - in English and Portuguese.

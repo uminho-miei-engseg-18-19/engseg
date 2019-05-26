@@ -2,6 +2,17 @@
 
 ## Avisos
 
+
+
+**26/Mai/2019**
+
+- Foi disponibilizado a ficha de trabalho para a aula suplementar.
+- Foram disponibilizados os slides para a aula suplementar.
+
+
+
+
+
 **05/Mai/2019**
 
 - Foi disponibilizado a ficha de trabalho para a décima-segunda aula - em inglês e português.

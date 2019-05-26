@@ -186,3 +186,22 @@ Ficha de trabalho incidindo sobre:
 - _Injection_
 - XSS
 - Quebra na Autenticação
+
+
+## Aula suplementar - 27/Mai/2019
+
+
+**Teórica**:
+
+- Validação de Input
+- Princípios de projeto de software
+- Evitar as Vulnerabilidades de Projeto predominantes
+
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+- Validação de Input
+- Princípios de projeto de software
