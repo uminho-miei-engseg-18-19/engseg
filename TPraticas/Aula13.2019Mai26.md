@@ -5,7 +5,8 @@
 
 **Nota:**
 
-Grave os ficheiros na diretoria [Aula 13](Aula13) para a sua máquina local na diretoria /home/user/Aulas/Aula13 .
+Grave os ficheiros na diretoria [Aula 13](Aula13) para a sua máquina local na diretoria /home/user/Aulas/Aula13 (sugestão, caso esteja a utilizar
+  a máquina virtual).
 
 
 
