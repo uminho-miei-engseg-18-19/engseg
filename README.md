@@ -3,6 +3,15 @@
 ## Avisos
 
 
+
+**05/Jun/2019**
+
+- Foram disponibilizados os slides, em inglês, para a aula suplementar e para a terceira aula.
+
+
+
+
+
 **31/Mai/2019**
 
 **Nota: Avaliação 360º dos grupos de trabalho do projeto de Engenharia de Segurança**

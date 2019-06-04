@@ -3,6 +3,29 @@
 ## Announcements
 
 
+**05/Jun/2019**
+
+- The slides for the extra class and for the third class was made available in english.
+
+
+**31/Mai/2019**
+
+**Nota: Avaliação 360º dos grupos de trabalho do projeto de Engenharia de Segurança**
+
+No âmbito do projeto de Engenharia de Segurança, cada elemento do grupo vai avaliar-se a si próprio e aos restantes elementos do grupo. Essa avaliação é na escala de 0 a 100 e corresponde ao que acha que vale o trabalho dispendido por cada elemento do grupo (O que cada elemento do grupo pode e deve fazer é uma análise a 360º da qualidade do trabalho contribuido por cada elementos, assim como do contributo de cada elemento para o projeto).
+
+Essa informação deverá ser-me enviada por mail antes da apresentação do trabalho.
+
+Quem não o fizer, não tem nota no projeto de Engenharia de Segurança.
+
+
+**Note: 360º evaluation of the Engenharia de Segurança project working groups**
+
+In the scope of the Engenharia de Segurança project, each member of the group will evaluate itself and the other elements of the group. This evaluation is from 0 to 100 and corresponds to what you think is worth the work done by each element of the group (based on the quality of the work contributed by each element, as well as the contribution of each element to the project).
+
+This information should be sent to me by mail before the presentation of the project.
+
+
 **26/May/2019**
 
 - The worksheet for the extra class was made available.
