@@ -3,14 +3,14 @@
 ## Avisos
 
 
+**05/Jun/2019**
+
+- Foram disponibilizadas as fichas de trabalho, em inglês, para a aula suplementar e para a terceira aula.
+
 
 **05/Jun/2019**
 
 - Foram disponibilizados os slides, em inglês, para a aula suplementar e para a terceira aula.
-
-
-
-
 
 **31/Mai/2019**
 
@@ -26,9 +26,6 @@ Quem não o fizer, não tem nota no projeto de Engenharia de Segurança.
 
 - Foi disponibilizado a ficha de trabalho para a aula suplementar.
 - Foram disponibilizados os slides para a aula suplementar.
-
-
-
 
 
 **05/Mai/2019**
